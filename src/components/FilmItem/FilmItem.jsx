@@ -1,4 +1,4 @@
-import { Button, Image, Item, Title } from './FilmItem.styled';
+import { Button,  Item, Title } from './FilmItem.styled';
 
 export const FilmItem = ({ imageLink, title, id, to, state }) => (
   <Item>
